@@ -27,6 +27,8 @@ Names.Add("Bhargav");
 Names.Add("Harshil");
 Names.Add("Vishal");
 
+
+
 //foreach (String item in Names)
 //{
 //    Console.WriteLine(item);
@@ -62,6 +64,14 @@ Names.Add("Vishal");
 //{
 //    Console.WriteLine(Name);
 //}
+
+
+//Names.RemoveAll();
+//foreach (String name in Names)
+//{
+//    Console.WriteLine(name);
+//}
+
 
 //Names.Insert(3,"jaydev"); // adding a name 
 //foreach (string na in Names) 
@@ -104,8 +114,16 @@ Names.Add("Vishal");
 //        }
 
 
+//string[] namesArray = new string[10];
+//Names.CopyTo(namesArray, 0);
+//Console.WriteLine("Elements in the array");
+//foreach (string name in namesArray)
+//{
+//    Console.WriteLine(name);
+//} 
 
-    
+
+
 
 
 Console.ReadLine();
